@@ -1,0 +1,21 @@
+[W 04:28:28.953 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 04:28:28.968 NotebookApp] Serving notebooks from local directory: /root/jupyter_dir
+[I 04:28:28.968 NotebookApp] 0 active kernels
+[I 04:28:28.969 NotebookApp] The Jupyter Notebook is running at:
+[I 04:28:28.969 NotebookApp] http://[all ip addresses on your system]:8888/
+[I 04:28:28.969 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 04:28:39.910 NotebookApp] Creating new notebook in 
+[I 04:28:39.967 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[I 04:28:42.456 NotebookApp] Kernel started: 7b468737-fe0b-46f6-8b81-699cd502147a
+[I 04:28:44.240 NotebookApp] Adapting to protocol v5.1 for kernel 7b468737-fe0b-46f6-8b81-699cd502147a
+[I 04:30:43.324 NotebookApp] Saving file at /Untitled.ipynb
+[W 05:11:58.994 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 05:11:59.010 NotebookApp] Serving notebooks from local directory: /root/jupyter_dir
+[I 05:11:59.011 NotebookApp] 0 active kernels
+[I 05:11:59.011 NotebookApp] The Jupyter Notebook is running at:
+[I 05:11:59.012 NotebookApp] http://[all ip addresses on your system]:8888/
+[I 05:11:59.016 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 05:12:10.788 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 05:12:10.790 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 05:12:11.343 NotebookApp] Kernel started: 3d15e360-01a7-4649-afac-b3421761e4ee
+[I 05:12:13.883 NotebookApp] Adapting to protocol v5.1 for kernel 3d15e360-01a7-4649-afac-b3421761e4ee
